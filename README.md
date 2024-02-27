@@ -29,8 +29,7 @@ The visualizations seek to fulfill 5 requirements:
 4. Total Vehicles CAFV eligible
 5. Top 10 Vehicles by Model
 
-![image](https://github.com/jidafan/Electric-Vehicle-Analysis/assets/141703009/5b1693e2-6d74-4b55-b5ed-f2d4021da812)
-
+![image](https://github.com/jidafan/Electric-Vehicle-Analysis/assets/141703009/502849c6-a097-43d2-adc3-912a1a1970f9)
 
 ## Conclusion
 
