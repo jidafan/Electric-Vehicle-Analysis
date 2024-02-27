@@ -36,4 +36,4 @@ The visualizations seek to fulfill 5 requirements:
 
 ### Next Steps
 * See if some cities have more vehicles that are CAFV-eligible
-* 
+  
